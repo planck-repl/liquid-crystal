@@ -1,4 +1,5 @@
-{:deps    {org.clojure/clojurescript {:mvn/version "1.10.520"}
+{:paths ["src" "lib"]
+ :deps    {org.clojure/clojurescript {:mvn/version "1.10.520"}
            org.clojure/test.check    {:mvn/version "0.10.0-alpha4"}
            planck                    {:mvn/version "2.23.0"}
            tubular                   {:mvn/version "1.3.0"}}
