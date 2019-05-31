@@ -1,2 +1,3 @@
-# liquid-xtal
+# liquid-crystal
+
 ClojureScript / C shared structs
